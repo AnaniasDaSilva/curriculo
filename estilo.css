@@ -3,6 +3,7 @@
     width: 25%;
     height: 25%;
     display: inline-block;
+    margin-left: 50px;
 }
 #divfotoPerfil{
     text-align: center;
@@ -11,7 +12,7 @@
     width: 90%;
     height: 90%;
     margin-top: 5px;
-    margin-left: 8px;
+    margin-left: 5px;
     
 }
 #divTitulo{
@@ -29,6 +30,7 @@
     height: 50%;
     margin-bottom: 10px;
     margin-top: 10px; 
+    margin-left: 5px;
 
 }
 #subtituloPerfil{
@@ -38,6 +40,7 @@
     height: 50%;
     margin-bottom: 10px;
     margin-top: 10px; 
+    margin-left: 10px;
 }
 #divTituloDescricao{
     background-color: rgb(87, 87, 87);
@@ -58,10 +61,49 @@
     font-family: Arial, Helvetica, sans-serif;
     height: 50%;
     margin-left: 10px; 
+}
+ol li{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50%;
+    margin-left: 10px;
+}
+#informacoes{
+    width: 60%;
+    height: 60%;
+    float: right;
+    padding-right: 90px;
+}
+#divApresentacao{
+    margin-left: -10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#experiencias{
+    margin-left: -10px;
+
+}
+#experienciaTitulo{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h2ExperienciaTitulo{
+    border-top: solid 1px;
+    border-bottom: solid 1px;
+    border-radius: 2px;
+    border-color: rgba(108, 108, 128, 0.300);
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    color: gray;
 
 }
 ul li{
-    color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 50%;
+    margin-left: 10px;
+}
+.pExpDescricacao{
+    color: black;
     font-family: Arial, Helvetica, sans-serif;
     height: 50%;
     margin-left: 10px; 
